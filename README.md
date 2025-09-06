@@ -1,4 +1,4 @@
-# MegaMedusa Machine Layer-7 DDoS Tool v3.2
+# MegaMedusa Machine Layer-7 DDoS Tool
 
 ## MegaMedusa V3.2 Main Display :
  ![Main](maindisplay.jpg)
@@ -85,3 +85,4 @@ bc1q5z9kccxvwcx6dk9hsmezvhfg8yqjyj0hs3v52v (BTC)
 ## Disclaimer :
 - This tool only for Education, Pentesting, and Research Purposes!
 - MegaMedusa Power depends from your Device Specs. Don't blame this script not power if your phone sucks.
+
